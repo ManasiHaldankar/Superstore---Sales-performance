@@ -7,6 +7,8 @@ Created Tableau dashboards fto showcase sales performance of the superstore.
 
 From the dashboards, we can infer the following
   i)    Calfornia generated the most profits amongst other states that was around $76,381.
+  
   ii)   The western region comprising of states such as Washington and California generated the most sales that was around $5.7M.
+  
   iii)  The product categories furniture and Technology generated the most sales in the years 2016 and 2017 respectively.
 
